@@ -1,0 +1,6 @@
+@Zembiec.ClientManagement.API_HostAddress = http://localhost:5239
+
+GET {{Zembiec.ClientManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
